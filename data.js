@@ -85,7 +85,7 @@ const allPosts = [
     author: "???",
     demo: "https://nekopoi.care/",
     progress: "100%"
-}
+  }
 ];
 
 const dataBookmarks = document.querySelector(".Data_Bookmark");
