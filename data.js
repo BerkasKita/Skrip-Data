@@ -77,7 +77,7 @@ const allPosts = [
   },
 
   {
-    title: "Nekopoi",
+    title: "Nekopoi2",
     status: "Kelar",
     description: "Nekopoi masak tidak kalian tidak kenal dengan situs ini. situs Kucing Peduli.",
     star: "05 Oktober 2022",
