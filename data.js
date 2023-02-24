@@ -74,7 +74,18 @@ const allPosts = [
       author: "???",
       demo: "https://nekopoi.care/",
       progress: "100%"
-  }
+  },
+
+  {
+    title: "Nekopoi",
+    status: "Kelar",
+    description: "Nekopoi masak tidak kalian tidak kenal dengan situs ini. situs Kucing Peduli.",
+    star: "05 Oktober 2022",
+    end: "05 Oktober 2022",
+    author: "???",
+    demo: "https://nekopoi.care/",
+    progress: "100%"
+}
 ];
 
 const dataBookmarks = document.querySelector(".Data_Bookmark");
