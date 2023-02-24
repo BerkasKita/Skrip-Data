@@ -1,2 +1,0 @@
-# Skrip-Data
- 
