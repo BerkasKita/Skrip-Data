@@ -129,7 +129,7 @@ const allPosts = [
     author: "Themesia",
     demo: "https://wibudesu.co/",
     progress: "0%"
-  }
+  },
 
   {
     title: "Animebatchs",
