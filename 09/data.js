@@ -250,7 +250,7 @@ const allPosts = [
     author: "???",
     demo: "https://w1.anime4up.tv/",
     progress: "0%"
-  }
+  },
 
   {
     title: "Animelatinohd",
