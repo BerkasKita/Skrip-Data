@@ -151,7 +151,7 @@ const allPosts = [
     author: "???",
     demo: "https://jav.guru/",
     progress: "0%"
-  }
+  },
 
   {
     title: "Sakuracircle",
